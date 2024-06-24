@@ -1,7 +1,7 @@
 # 1. Business problem
 
 <div style="text-align: center;">
-  <img src="img/cover.png" alt="Cover Image" style="height: 400px; width: 100%;">
+  <img src="img/cover.png" alt="Cover Image" style="height: 500px; width: 100%;">
 </div>
 
 The company Fome Zero is a restaurant marketplace. In other words, its core business is to facilitate the meeting and negotiations of customers and restaurants. Restaurants register on the Fome Zero platform, which provides information such as address, type of cuisine served, whether they have reservations, whether they make deliveries and also an evaluation note on the restaurant's services and products, among other information.
