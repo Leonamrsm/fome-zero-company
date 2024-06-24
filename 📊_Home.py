@@ -1,7 +1,7 @@
 import folium.plugins
 import streamlit as st
 import folium
-from PIL import Image
+
 from streamlit_folium import folium_static
 
 from  utils.helpers import process_data

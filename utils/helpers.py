@@ -94,8 +94,6 @@ def process_data(file_path):
     df['price_type'] = df['price_range'].apply(create_price_tye)
     df['color_name'] = df['rating_color'].apply(color_name)
 
-    print(df.dtypes)
-
     df["cuisines_"] = df.loc[:, "cuisines"].apply(lambda x: x.split(",")[0])
 
     df.to_csv("data/processed/data.csv", index=False)
