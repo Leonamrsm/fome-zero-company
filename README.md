@@ -20,7 +20,7 @@ The CEO needs to better understand the business to be able to make the best stra
 
  5. What are the total types of cuisine registered?
 
-- Country
+### Country
 
  1. What is the name of the country that has the most registered cities?
 
@@ -44,7 +44,7 @@ The CEO needs to better understand the business to be able to make the best stra
 
  11. What is the average price of a dish for two per country?
 
-- City
+### City
 
  1. What is the name of the city that has the most registered restaurants?
 
@@ -62,7 +62,7 @@ The CEO needs to better understand the business to be able to make the best stra
 
  8. What is the name of the city that has the largest number of restaurants that accept online orders?
 
-- Restaurants
+### Restaurants
 
  1. What is the name of the restaurant that has the most reviews?
 
