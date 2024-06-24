@@ -1,3 +1,111 @@
-# fome-zero-company
+# 1. Business problem
 
-https://fome-zero-company-leonamrsm.streamlit.app/
+The company Fome Zero is a restaurant marketplace. In other words, its core business is to facilitate the meeting and negotiations of customers and restaurants. Restaurants register on the Fome Zero platform, which provides information such as address, type of cuisine served, whether they have reservations, whether they make deliveries and also an evaluation note on the restaurant's services and products, among other information.
+
+## 1.1. The challenge
+
+The company Fome Zero is a restaurant marketplace. In other words, its core business is to facilitate the meeting and negotiations of customers and restaurants. Restaurants register on the Fome Zero platform, which provides information such as address, type of cuisine served, whether they have reservations, whether they make deliveries and also an evaluation note on the restaurant's services and products, among other information.
+
+The CEO needs to better understand the business to be able to make the best strategic decisions and further leverage Zero Hunger, and to do this, he needs an analysis to be carried out on the company's data and dashboards to be generated, based on these analyses, to answer the following questions:
+
+- General
+
+ 1. How many unique restaurants are registered?
+
+ 2. How many unique countries are registered?
+
+ 3. How many unique cities are registered?
+
+ 4. What is the total number of assessments carried out?
+
+ 5. What are the total types of cuisine registered?
+
+- Country
+
+ 1. What is the name of the country that has the most registered cities?
+
+ 2. What is the name of the country that has the most registered restaurants?
+
+ 3. What is the name of the country that has the most registered restaurants with a price level equal to 4?
+
+ 4. What is the name of the country that has the greatest number of different types of cuisine?
+
+ 5. What is the name of the country that has the largest number of evaluations carried out?
+
+ 6. What is the name of the country that has the largest number of restaurants that deliver?
+
+ 7. What is the name of the country that has the largest number of restaurants that accept reservations?
+
+ 8. What is the name of the country that has, on average, the highest number of registered evaluations?
+
+ 9. What is the name of the country that has, on average, the highest recorded average score?
+
+ 10. What is the name of the country that has, on average, the lowest recorded average score?
+
+ 11. What is the average price of a dish for two per country?
+
+- City
+
+ 1. What is the name of the city that has the most registered restaurants?
+
+ 2. What is the name of the city that has the most restaurants with an average rating above 4?
+
+ 3. What is the name of the city that has the most restaurants with an average rating below 2.5?
+
+ 4. What is the name of the city that has the highest average price for a dish for two?
+
+ 5. What is the name of the city that has the largest number of different types of cuisine?
+
+ 6. What is the name of the city that has the largest number of restaurants that take reservations?
+
+ 7. What is the name of the city that has the largest number of restaurants that deliver?
+
+ 8. What is the name of the city that has the largest number of restaurants that accept online orders?
+
+- Restaurants
+
+ 1. What is the name of the restaurant that has the most reviews?
+
+ 2. What is the name of the restaurant with the highest average rating?
+
+ 3. What is the name of the restaurant that has the highest price for one dish for two people?
+
+ 4. What is the name of the Brazilian cuisine restaurant that has the lowest average rating?
+
+ 5. What is the name of the Brazilian cuisine restaurant, which is from Brazil, and has the highest average rating?
+
+ 6. Are restaurants that accept online orders also, on average, the restaurants that have the most registered reviews?
+
+ 7. Are the restaurants that take reservations also, on average, the restaurants that have the highest average price for a dish for two people?
+
+ 8. Do Japanese cuisine restaurants in the United States of America have a higher average serving price for two people than American steakhouses (BBQ)?
+
+- Types of Cuisine
+
+ 1. Of the restaurants that have Italian cuisine, what is the name of the restaurant with the highest average rating?
+
+ 2. Of the restaurants that have Italian cuisine, what is the name of the restaurant with the lowest average rating?
+
+ 3. Of the restaurants that have American cuisine, what is the name of the restaurant with the highest average rating?
+
+ 4. Of the restaurants that have American cuisine, what is the name of the restaurant with the lowest average rating?
+
+ 5. Of the restaurants that serve Arabic cuisine, what is the name of the restaurant with the highest average rating?
+
+ 6. Of the restaurants that serve Arabic cuisine, what is the name of the restaurant with the lowest average rating?
+
+ 7. Of the restaurants that have Japanese cuisine, what is the name of the restaurant with the highest average rating?
+
+ 8. Of the restaurants that have Japanese cuisine, what is the name of the restaurant with the lowest average rating?
+
+ 9. Of the restaurants that offer homemade cuisine, what is the name of the restaurant with the highest average rating?
+
+10. Of the restaurants that offer homemade cuisine, what is the name of the restaurant with the lowest average rating?
+
+11. What type of cuisine has the highest average value for a dish for two people?
+
+12. What type of cuisine has the highest average score?
+
+13. What type of cuisine does the most restaurants accept online orders and deliver?
+
+The CEO also asked for a dashboard to be generated that would allow him to visualize the main information from the questions he asked. The CEO needs this information as quickly as possible, since he is also new to the company and will use it to better understand the company Fome Zero to be able to make more assertive decisions.
