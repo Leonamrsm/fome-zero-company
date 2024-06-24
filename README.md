@@ -8,7 +8,7 @@ The company Fome Zero is a restaurant marketplace. In other words, its core busi
 
 The CEO needs to better understand the business to be able to make the best strategic decisions and further leverage Zero Hunger, and to do this, he needs an analysis to be carried out on the company's data and dashboards to be generated, based on these analyses, to answer the following questions:
 
-- General
+- ### General
 
  1. How many unique restaurants are registered?
 
