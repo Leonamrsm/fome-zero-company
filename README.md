@@ -115,3 +115,56 @@ The CEO also asked for a dashboard to be generated that would allow him to visua
 1. Marketplace was the assumed business model
 2. The three views created in the dashboards were: Countries View, Cities View and Types of Cuisine view.
 3. Only the first type of cuisine was considered among restaurants that have more than 1 type of cuisine. E.g.: if the type of cuisine of a restaurant is *“Italian, Pizza, Fresh Fish”, only “Italian” was considered in the analyses.*
+
+# 3. Solution strategy
+
+A strategic panel was developed to visualize how restaurants are distributed across countries, cities and types of cuisine and an overview of all registered restaurants.
+
+For each view, the following set of metrics was obtained:
+
+## 3.1. Countries Vision
+
+1. Number of restaurants per country.
+2. Number of cities with registered restaurants per country.
+3. Average rating of restaurants by country.
+4. Average price of restaurants by country.
+
+## 3.2. Cities Vision
+
+1. Top 7 cities with the highest average rating for restaurants.
+2. Top 7 cities with the lowest average aggregate rating for restaurants.
+3. Top 7 cities with the highest average restaurant prices.
+4. Top 7 cities with the lowest average restaurant prices.
+5. Top 7 cities with the most restaurants registered with an average rating above 4.
+6. Top 7 cities with the most restaurants registered with an average rating below 2.5.
+7. Top 10 cities with the highest number of registered restaurants with different types of cuisine.
+
+## 3.3. Cuisines Vision
+1. Metrics showing the top 5 restorations with the highest ratings.
+2. Table showing details of the top n restaurants with the highest reviews.
+3. Bar graph: Aggregate Average Score X Type of Cuisine.
+4. Bar graph: Average Price Variation Index of Restaurants X Type of Cuisine.
+
+# 4. Top 3 Data Insights
+
+- The country with the lowest average aggregate score for restaurants is Brazil.
+- Singapore is the country with the highest average restaurant price index.
+- The city of Muntinlupa in the Philippines is the city with the highest average score for registered restaurants (4.9/5.0).
+
+# 5. The final product of the project
+
+Panel, online, hosted in a Cloud and available for access on any device connected to the internet.
+
+The panel can be accessed through this link: https://fome-zero-company-leonamrsm.streamlit.app/
+
+# 6. Conclusion
+
+The objective of this project is to create a set of graphs and/or tables that display these metrics in the best possible way for the CEO.
+
+Strategies can be created from the graphs to improve the average ratings of registered restaurants.
+
+# 7. Next Steps
+
+1. Create new filters
+2. Add new business insights.
+3. Improve the distribution of graphs and metrics in each view.
