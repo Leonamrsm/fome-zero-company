@@ -109,3 +109,9 @@ The CEO needs to better understand the business to be able to make the best stra
 13. What type of cuisine does the most restaurants accept online orders and deliver?
 
 The CEO also asked for a dashboard to be generated that would allow him to visualize the main information from the questions he asked. The CEO needs this information as quickly as possible, since he is also new to the company and will use it to better understand the company Fome Zero to be able to make more assertive decisions.
+
+# 2. Assumptions assumed for the analysis
+
+1. Marketplace was the assumed business model
+2. The three views created in the dashboards were: Countries View, Cities View and Types of Cuisine view.
+3. Only the first type of cuisine was considered among restaurants that have more than 1 type of cuisine. E.g.: if the type of cuisine of a restaurant is *“Italian, Pizza, Fresh Fish”, only “Italian” was considered in the analyses.*
