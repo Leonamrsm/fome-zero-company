@@ -1,5 +1,7 @@
 # 1. Business problem
 
+![](img/cover.png)
+
 The company Fome Zero is a restaurant marketplace. In other words, its core business is to facilitate the meeting and negotiations of customers and restaurants. Restaurants register on the Fome Zero platform, which provides information such as address, type of cuisine served, whether they have reservations, whether they make deliveries and also an evaluation note on the restaurant's services and products, among other information.
 
 ## 1.1. The challenge
