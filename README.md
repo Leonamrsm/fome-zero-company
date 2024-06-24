@@ -153,7 +153,7 @@ For each view, the following set of metrics was obtained:
 
 # 5. The final product of the project
 
-Panel, online, hosted in a Cloud and available for access on any device connected to the internet.
+Online panel, hosted in a Cloud and available for access on any device connected to the internet.
 
 The panel can be accessed through this link: https://fome-zero-company-leonamrsm.streamlit.app/
 
