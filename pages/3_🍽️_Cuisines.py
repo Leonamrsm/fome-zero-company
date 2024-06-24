@@ -97,7 +97,7 @@ def main():
 
     with st.container():
 
-        st.markdown(f"## Top {top_n} Restaurants by Mean Aggregate Rating")     
+        st.markdown(f"## Top {top_n} Restaurants with Highest Mean Aggregate Rating")     
         
         selected_columns = ['restaurant_name', 'country', 'city', 'cuisines_', 'average_cost_for_two', 'votes']
 
@@ -110,13 +110,13 @@ def main():
 
     with st.container():
 
-        st.markdown(f"### Cuisines by Mean Aggregate Rating")
+        st.markdown(f"### Mean Aggregate Rating by Cuisines")
         fig = get_cuisines_mean_metric_barplot_fig(df_filtered, ascending=False, metric='aggregate_rating')
         st.plotly_chart(fig, use_container_width=True)
 
     with st.container():
 
-        st.markdown(f"### Cuisines by Price Range")
+        st.markdown(f"### Price Range by Cuisines")
         fig = get_cuisines_mean_metric_barplot_fig(df_filtered, ascending=False, metric='price_range')
         st.plotly_chart(fig, use_container_width=True)
 
